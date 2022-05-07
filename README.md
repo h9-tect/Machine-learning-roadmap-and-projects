@@ -83,7 +83,7 @@ GitHub:
 - https://github.com/Avik-Jain/100-Days-Of-ML-Code
 - https://github.com/yanshengjia/ml-road
 
-## Further resources added by the community
+## Further resources 
 Contributions are welcome! If you can recommend any other resources, feel free to open a pull request :)
 - [ ] [Book: Automate The Boring Stuff with Python](https://automatetheboringstuff.com/) (Till Chapter 6 for Python Basics, the remaining chapters include the applications of Python)
 - [ ] [Book: Python Crash Course by Erric Matthes](https://ehmatthes.github.io/pcc_2e/regular_index/)
